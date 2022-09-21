@@ -1,0 +1,13 @@
+.pokemon-inner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.pokemons-list {
+    width: 350px;
+    list-style: none;
+    text-align: center;
+    border: 2px solid rgb(247, 178, 200);
+    margin-bottom: 20px;
+}
